@@ -10,5 +10,4 @@ class PoemsController < ApplicationController
       render json: @poem
   end
 
-
 end
